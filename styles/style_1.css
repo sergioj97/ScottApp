@@ -8,7 +8,7 @@
     border: none;
     text-align: left;
     outline: none;
-    font-size: 30px;
+    font-size: 60px;
   }
   
   /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -22,5 +22,5 @@
     display: none;
     overflow: hidden;
     background-color: #f1f1f1;
-    font-size: 30px;
+    font-size: 40px;
   }
